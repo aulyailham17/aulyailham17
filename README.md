@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aulyailham17
+- 👀 I’m interested in programming and learning something new
+- 🌱 I’m currently learning data science and machine learning
+- 💞️ I’m looking to collaborate on any kind of project about data science and machine learning to improve myself :)
+- 📫 How to reach me by email : aulyailham@gmail.com or instagram @aulyailham17
